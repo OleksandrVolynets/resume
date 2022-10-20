@@ -1,1 +1,1 @@
-# resume
+# study HTML and CSS
